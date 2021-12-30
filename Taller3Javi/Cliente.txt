@@ -1,0 +1,4 @@
+1.111.111-1,Pablo,Rios,100000,Ovalle
+9.999.999-9,Javiera,Rios,54389,Coquimbo
+7.777.777-7,Kamila,Opazo,240911,Santiago
+888.888-8,Juan,Espinoza,100000,Antofagasta
